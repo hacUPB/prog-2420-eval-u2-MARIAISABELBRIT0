@@ -17,6 +17,7 @@ Hice una lista de pasos para seguir linealmente el orden de lo que el programa t
 ### pseudocodigo
 ![diagrama](<https://i.imgur.com/QSn8ABR.jpeg>)
 ![diagrama](<https://i.imgur.com/sziA06j.jpeg>)
+![diagrama](image.png)
 ![diagrama](<https://i.imgur.com/ZOLL347.jpeg>)
 
 ## problema 2
